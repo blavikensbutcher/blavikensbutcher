@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354051/maven.svg" title="Maven" **alt="Maven" width="40" height="40"/>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blavikensbutcher&hide_border=true&border_radius=8.4&locale=uk&background=45%2C000000%2CFF2222&dates=FFFFFF&currStreakNum=EB281B&sideNums=EB0000&sideLabels=EBA403)](https://git.io/streak-stats)
