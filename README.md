@@ -36,7 +36,6 @@
 
 - :zap:  In my free time, I solve problems on <b>LeetCode</b>, <b>CodeWars</b> and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-blavikensbutcher-black?style=flat&logo=telegram&logoColor=white)]([your-linkedin-url](https://t.me/blavikensbutcher))
 
 ---
 
