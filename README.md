@@ -24,6 +24,7 @@
 <h1 align="center">Hi there<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35"></h1>
 
 
+
 <div>👨‍💻 About Me : </div>
 <br>
 <div>I am a beginner <b>Full Stack Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦</div>
@@ -59,6 +60,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blavikensbutcher&hide_border=true&border_radius=8.4&locale=uk&background=45%2C000000%2CFF2222&dates=FFFFFF&currStreakNum=EB281B&sideNums=EB0000&sideLabels=EBA403)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blavikensbutcher&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif">
 
 ---
 
