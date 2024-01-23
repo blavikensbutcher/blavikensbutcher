@@ -35,7 +35,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap:  In my free time, I solve problems on <b>LeetCode</b>, <b>CodeWars</b> and read tech articles.
+- :zap:  In my free time, I solve problems on <b>LeetCode</b>, <b>CodeWars</b> and making videos on youtube.
 
 
 ---
