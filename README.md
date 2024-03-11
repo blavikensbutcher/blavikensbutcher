@@ -29,7 +29,7 @@
 <br>
 <div>I am a beginner <b>Full Stack Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine 🇺🇦</div>
 <br>
-
+with passion to AI, Crypto & Sport
 
 - :telescope: I’m learning React, React Native and Node.js
 
