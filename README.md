@@ -33,11 +33,6 @@ with passion to AI, Crypto & Sport
 
 - :telescope: I’m learning React, React Native and Node.js
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap:  In my free time, I solve problems on <b>LeetCode</b>, <b>CodeWars</b> and making videos on youtube.
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
