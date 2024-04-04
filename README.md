@@ -32,7 +32,7 @@
 with passion to AI, Crypto & Sport
 <br>
 <br>
-- :telescope: I’m learning React, React Native and Node.js
+- :telescope: do things in React, React Native and Node.js
 
 ---
 
